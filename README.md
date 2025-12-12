@@ -209,6 +209,7 @@
   <li><a href="https://instaclip.app/">InstaClip</a></li>Instagram video downloader.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
+  <li><a href="https://toolzin.com/">Toolzin</a></li>Instagram Downloader.
   <li><a href="https://instanavigation.com/">Instanavigation</a></li>View Instagram anonymously.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader.
